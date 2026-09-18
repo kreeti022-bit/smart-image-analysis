@@ -1,0 +1,124 @@
+SMART IMAGE ANALYSIS
+OBJECT ANALYSIS RESULTS
+========================
+
+Total objects detected: 19
+Total detected area: 143435.50
+Average object area: 7549.24
+
+INDIVIDUAL OBJECT INFORMATION
+------------------------------
+
+Object 1
+Area: 581.00
+Perimeter: 199.74
+Bounding Box: (0, 560, 59, 25)
+Centroid: (20, 572)
+
+Object 2
+Area: 1257.50
+Perimeter: 196.81
+Bounding Box: (0, 504, 65, 29)
+Centroid: (33, 518)
+
+Object 3
+Area: 2210.50
+Perimeter: 793.68
+Bounding Box: (40, 503, 208, 97)
+Centroid: (144, 561)
+
+Object 4
+Area: 1060.00
+Perimeter: 170.08
+Bounding Box: (161, 477, 61, 27)
+Centroid: (186, 489)
+
+Object 5
+Area: 2440.00
+Perimeter: 599.73
+Bounding Box: (226, 437, 120, 58)
+Centroid: (278, 463)
+
+Object 6
+Area: 4363.00
+Perimeter: 1010.95
+Bounding Box: (229, 347, 134, 94)
+Centroid: (274, 386)
+
+Object 7
+Area: 528.00
+Perimeter: 114.08
+Bounding Box: (355, 324, 26, 32)
+Centroid: (366, 337)
+
+Object 8
+Area: 19605.00
+Perimeter: 2759.46
+Bounding Box: (0, 302, 226, 221)
+Centroid: (91, 398)
+
+Object 9
+Area: 25269.50
+Perimeter: 3757.32
+Bounding Box: (241, 290, 559, 310)
+Centroid: (553, 464)
+
+Object 10
+Area: 950.00
+Perimeter: 233.48
+Bounding Box: (228, 273, 50, 54)
+Centroid: (248, 300)
+
+Object 11
+Area: 4555.00
+Perimeter: 730.90
+Bounding Box: (517, 260, 72, 178)
+Centroid: (545, 348)
+
+Object 12
+Area: 825.50
+Perimeter: 187.84
+Bounding Box: (233, 234, 63, 34)
+Centroid: (261, 257)
+
+Object 13
+Area: 1022.00
+Perimeter: 124.57
+Bounding Box: (246, 219, 46, 30)
+Centroid: (268, 233)
+
+Object 14
+Area: 1688.50
+Perimeter: 201.98
+Bounding Box: (740, 170, 37, 69)
+Centroid: (754, 204)
+
+Object 15
+Area: 3246.50
+Perimeter: 530.58
+Bounding Box: (637, 167, 95, 84)
+Centroid: (692, 211)
+
+Object 16
+Area: 1034.50
+Perimeter: 214.33
+Bounding Box: (494, 138, 82, 20)
+Centroid: (535, 146)
+
+Object 17
+Area: 1091.00
+Perimeter: 352.51
+Bounding Box: (264, 127, 33, 96)
+Centroid: (279, 178)
+
+Object 18
+Area: 519.00
+Perimeter: 235.97
+Bounding Box: (178, 69, 39, 66)
+Centroid: (200, 101)
+
+Object 19
+Area: 71189.00
+Perimeter: 5098.90
+Bounding Box: (256, 0, 529, 442)
+Centroid: (434, 140)
